@@ -1,0 +1,4 @@
+name: FlickeringPumpkins
+version: '${project.version}'
+main: me.stephenminer.flickerpumpkins.FlickeringPumpkins
+api-version: '1.20'
